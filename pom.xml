@@ -31,6 +31,24 @@
         <spring-format.version>0.0.19</spring-format.version>
 
     </properties>
+    
+    <developers>
+        <developer>
+            <id>TerryIsmael</id>
+            <name>Ismael</name>
+            <email>terryismael2@gmailcom</email>
+            <url>https://github.com/TerryIsmael</url>
+            <roles>
+                <role>Contributor</role>
+            </roles>
+            <properties>
+                <picUrl>
+                https://avatars.githubusercontent.com/u/106593307?v=4&amp;format=jpg&amp;name
+                =large
+                </picUrl>
+            </properties>
+        </developer>
+    </developers>
 
      <developers>
         <developer>
